@@ -1,0 +1,13 @@
+{
+  "name": "be1010",
+  "version": "1.0.0",
+  "description": "backend entry task 1",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
